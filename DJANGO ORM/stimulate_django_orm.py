@@ -12,6 +12,7 @@ cur=conn.cursor()
 #         )''')
 # print("table created")
 
+
 class Employee:
     def create(self,*args,**kwargs):
         cols=""
